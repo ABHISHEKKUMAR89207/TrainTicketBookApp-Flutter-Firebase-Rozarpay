@@ -55,7 +55,7 @@ Follow these steps to create a Flutter Firebase page with Firestore and Email/Pa
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/ABHISHEKKUMAR89207/WeatherApp.git
+   git clone https://github.com/ABHISHEKKUMAR89207/TrainTicketBookApp-Flutter-Firebase-Rozarpay.git
    ```
 
 #### Flutter Package Dependencies
