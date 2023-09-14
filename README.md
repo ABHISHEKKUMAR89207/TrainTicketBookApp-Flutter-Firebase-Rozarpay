@@ -1,6 +1,6 @@
-# Flutter Firebase Page with Firestore and Email/Password Authentication
+# Train Ticket App
 
-This Flutter project demonstrates how to create a Flutter app with Firebase integration for Firestore database and Email/Password Authentication.
+Effortlessly book train tickets with our Firebase-powered Train Ticket App. Real-time updates, secure payments, and e-tickets for smooth journeys.
 
 ## Table of Contents
 
@@ -17,9 +17,9 @@ This Flutter project demonstrates how to create a Flutter app with Firebase inte
 
 <div align="center">
   <img src="img/weather.jpeg" alt="Image Description" width="200">
-  <p align="left"> tincidunt interdum.</p>
+  
 </div>
-This Flutter project serves as a guide to creating a Flutter app with Firebase integration for Firestore and Email/Password Authentication. Firebase is a powerful backend-as-a-service (BaaS) platform that provides various services for mobile and web app development.
+Train Ticket Booking App with Firebase simplifies train travel. Securely sign in or sign up, and explore real-time seat availability and fares. Effortlessly book your journey with just a few taps. Your e-tickets are readily accessible on your device. We combine user-friendliness with Firebase's security for a smooth experience. Plan your entire trip, from booking to tracking schedules, all in one place. Make train travel stress-free with our Train Ticket Booking App.
 
 ## Screenshots
 
