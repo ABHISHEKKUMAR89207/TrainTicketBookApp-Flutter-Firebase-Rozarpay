@@ -16,7 +16,7 @@ This Flutter project demonstrates how to create a Flutter app with Firebase inte
 ## About
 
 <div align="center">
-  <img src="img/weather.png" alt="Image Description" width="300">
+  <img src="img/weather.jpeg" alt="Image Description" width="200">
   <p align="left"> tincidunt interdum.</p>
 </div>
 This Flutter project serves as a guide to creating a Flutter app with Firebase integration for Firestore and Email/Password Authentication. Firebase is a powerful backend-as-a-service (BaaS) platform that provides various services for mobile and web app development.
@@ -24,20 +24,20 @@ This Flutter project serves as a guide to creating a Flutter app with Firebase i
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-   <img src="img/ak1.jpg" width="300">
-   <img src="img/ak2.jpg" width="300">
-   <img src="img/ak3.jpg" width="300">
-   <img src="img/ak4.jpg" width="300">
-   <img src="img/ak5.jpg" width="300">
-   <img src="img/ak6.jpg" width="300">
-   <img src="img/ak7.jpg" width="300">
-   <img src="img/ak8.jpg" width="300">
-   <img src="img/ak9.jpg" width="300">
-   <img src="img/ak10.jpg" width="300">
-   <img src="img/ak11.jpg" width="300">
-   <img src="img/ak12.jpg" width="300">
-   <img src="img/ak13.jpg" width="300">
-   <img src="img/ak14.jpg" width="300">
+   <img src="img/ak1.jpg" width="200">
+   <img src="img/ak2.jpg" width="200">
+   <img src="img/ak3.jpg" width="200">
+   <img src="img/ak4.jpg" width="200">
+   <img src="img/ak5.jpg" width="200">
+   <img src="img/ak6.jpg" width="200">
+   <img src="img/ak7.jpg" width="200">
+   <img src="img/ak8.jpg" width="200">
+   <img src="img/ak9.jpg" width="200">
+   <img src="img/ak10.jpg" width="200">
+   <img src="img/ak11.jpg" width="200">
+   <img src="img/ak12.jpg" width="200">
+   <img src="img/ak13.jpg" width="200">
+   <img src="img/ak14.jpg" width="200">
 </div>
 
 ## Prerequisites
