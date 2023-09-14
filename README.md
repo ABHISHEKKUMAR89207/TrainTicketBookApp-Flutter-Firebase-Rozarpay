@@ -66,7 +66,7 @@ Follow these steps to create a Flutter Firebase page with Firestore and Email/Pa
 
 ### Firebase Setup
 
-# Flutter Firebase Authentication and Database Setup
+### Flutter Firebase Authentication and Database Setup
 
 This guide will help you set up Firebase Authentication and Firebase Database for your Flutter project. Firebase is a platform that provides backend services such as authentication, real-time databases, and cloud functions.
 
@@ -98,9 +98,9 @@ This guide will help you set up Firebase Authentication and Firebase Database fo
 3. Set up security rules to control access to your database.
 4. Firebase Database is now ready to use in your Flutter app.
 
-### Payment Setup
+## Payment Setup
 
-# Add your RozarPay Api key on :
+### Add your RozarPay Api key on :
 
 TrainTicketBookApp-Flutter-Firebase-Rozarpay\lib\Trains\AddPassengerInfo.dart
 
